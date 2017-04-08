@@ -1,4 +1,4 @@
-#Smart Fridge 
+# Smart Fridge 
 
 Term project to be completed by myself and Patrick Langis. It is still a work in progress. 
  
