@@ -1,4 +1,6 @@
- This is the term project completed by myself and Patrick Langis. 
+ This is the term project is to be completed by myself and Patrick Langis. 
+ 
+ It is still a work in progress. 
  
  We used a bootstrap template in order to create the webpage. 
  
