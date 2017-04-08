@@ -1,6 +1,6 @@
- This is the term project is to be completed by myself and Patrick Langis. 
- 
- It is still a work in progress. 
+#Smart Fridge 
+
+Term project to be completed by myself and Patrick Langis. It is still a work in progress. 
  
  We used a bootstrap template in order to create the webpage. 
  
