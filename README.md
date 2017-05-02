@@ -1,6 +1,6 @@
 # CSI2132
 Databases I
-Winter 2017 - Currently in progress
+Winter 2017
 
 Felix Singerman
 
