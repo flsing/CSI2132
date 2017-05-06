@@ -1,5 +1,7 @@
 # Smart Fridge 
 
+This project has now been moved to its own directory. 
+
 Term project to be completed by myself and Patrick Langis. It is still a work in progress. 
  
  We used a bootstrap template in order to create the webpage. 
